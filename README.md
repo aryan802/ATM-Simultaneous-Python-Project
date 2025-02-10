@@ -1,1 +1,2 @@
 # ATM-Simultaneous-Python-Project
+ATM Simultaneous Python Project is a simple command-line ATM simulation written in Python. It supports multiple users with secure authentication using PIN verification. Users can check their balance, withdraw and deposit money, and change their PINs. The system ensures security by limiting PIN attempts and enforcing banking rules such as withdrawals in multiples of 10.
